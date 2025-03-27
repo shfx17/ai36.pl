@@ -1,0 +1,40 @@
+services:
+    php:
+        container_name: ebook-php
+        build:
+            context: .
+            dockerfile: Dockerfile
+        restart: unless-stopped
+        volumes:
+            - ./:/app
+        depends_on:
+            - mysql
+        networks:
+            - ebook-network
+        ports:
+            - "8030:8030"
+        command: php -S 0.0.0.0:8030 -t public
+
+    mysql:
+        image: mysql:8
+        container_name: ebook-mysql-db
+        restart: unless-stopped
+        tty: true
+        ports:
+            - "3308:3306"
+        environment:
+            MYSQL_DATABASE: ebook-db
+            MYSQL_ROOT_PASSWORD: root
+            SERVICE_TAGS: dev
+            SERVICE_NAME: mysql
+        networks:
+            - ebook-network
+        volumes:
+            - ./etc/database/mysql/my.cnf/:/etc/mysql/my.cnf
+            - ./etc/database/dump:/dump
+
+networks:
+    ebook-network:
+        external: true
+
+# When network does not exist run: docker network create ebook-network

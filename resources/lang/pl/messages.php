@@ -1,0 +1,63 @@
+<?php
+
+return [
+    'why you should' => 'Dlaczego warto ?',
+    'about the book' => 'O książce',
+    'about us' => 'O nas',
+    'opinions' => 'Opinie',
+    'price' => 'Cena',
+    'buy ebook' => 'Kup eBook',
+    '36 ai tools' => '36 narzędzi AI',
+    'in one place' => 'w jednym miejscu',
+    'home_description' => '
+        Chcesz zautomatyzować swoją pracę, zaoszczędzić czas i zwiększyć swoje dochody? Ten eBook to przewodnik po
+        36 najskuteczniejszych narzędzi AI, które pomogą Ci w generowaniu wideo, shortów, reelsów, e-marketingu, sprzedaży,
+        copywritingu, analizie danych i wielu innych obszarach biznesu!',
+    'you wil learn' => 'Nauczysz się',
+    'ebook_description' => '
+        Kompendium wiedzy na temat 36 narzędzi AI zostało utworzone, aby pomóc lepiej zrozumieć i wykorzystać narzędzia AI w biznesie.
+        biznesie. Znajdziesz tu gotowe prompty i wskazówki, które pomogą Ci zautomatyzować i zoptymalizować pracę.',
+    '36 ai tools that will bring you profit' => '36 narzędzi AI, które przyniosą ci zysk',
+    'ebook_div_one' => 'Odkryj aż 36 zaawansowanych narzędzi AI, które nie tylko przyspieszą Twoją pracę, ale także pomogą Ci wygenerować dodatkowy dochód.',
+    'innovative strategies' => 'Innowacyjne strategie',
+    'ebook_div_two' => 'Poznaj sprawdzone sposoby na skuteczne wdrożenie sztucznej inteligencji w swojej firmie i zwiększenie konkurencyjności na rynku.',
+    'practical examples' => 'Praktyczne przykłady',
+    'ebook_div_three' => 'Gotowe prompty pozwolą szybko wdrożyć sztuczną inteligencję do codziennych zadań.',
+    'ebook_section_description' => 'Sztuczna inteligencja zmienia świat biznesu - poznaj jej potencjał i zacznij działać wydajniej! Ten eBook to praktyczny przewodnik, który pomoże Ci wykorzystać sztuczną inteligencję do automatyzacji, zwiększenia produktywności i generowania zysków.',
+    'pages of knowledge from the ebook' => 'stron wiedzy z ebooka',
+    'highlighted ai tools' => 'wyróżnionych narzędzi AI',
+    'active readers' => 'zadowolonych klientów',
+    'about_us_section' => '
+        Nasz zespół specjalizuje się we wdrażaniu najnowocześniejszych narzędzi AI, które pomagają firmom automatyzować procesy, zwiększać
+        wydajność i skalować swój biznes. Dzięki naszemu doświadczeniu i pasji do nowych technologii pomagamy przedsiębiorcom,
+        marketingowcom i firmom z różnych branż wykorzystać potencjał sztucznej inteligencji w ich codziennej pracy.',
+    'company goals' => 'Cele firmowe',
+    'plan for 2024' => 'Plan na 2024',
+    'plan for 2025' => 'Plan na 2025',
+    'year 2025' => 'Rok 2025',
+    'year 2024' => 'Rok 2024',
+    'neural network development, using ai apis for projects and programming' => 'Rozwój sieci neuronowych, korzystanie z interfejsów API AI do projektów.',
+    'deploy AI tools to customers businesses with the creation of an eBook' => 'Wdrażanie narzędzi AI w firmach klientów, dzięki naszemu eBookowi.',
+    'opinions_section' => 'Zaufali nam przedsiębiorcy, marketingowych i firmy z różnych branż, którzy usprawnili swoją pracę i zwiększyli zyski dzięki naszym rozwiązaniom AI. Zobacz, co mówią o współpracy z nami',
+    'client_one' => 'Dzięki temu ebookowi całkowicie zmieniłem sposób, w jaki działamy! Narzędzia AI pomogły mi zautomatyzować kampanie reklamowe, generować skuteczne treści i analizować dane klientów. Teraz oszczędzam mnóstwo czasu, a moje kampanie przynoszą lepsze rezultaty!',
+    'client_two' => 'Narzędzia AI z ebooka pozwoliły mi usprawnić obsługę klienta i zwiększyć sprzedaż! Wdrożyłem chatboty do automatycznego odpowiadania na zapytania i narzędzia AI do generowania opisów produktów. W rezultacie mój sklep działa wydajniej, a konwersje wzrosły o 40%!',
+    'client_three' => 'Pisanie tekstów nigdy nie było tak proste! Dzięki narzędziom sztucznej inteligencji zawartym w książce tworzę treści szybciej i wydajniej. Sztuczna inteligencja pomaga mi generować pomysły, optymalizować artykuły pod kątem SEO i dostarczać klientom wysokiej jakości treści. Moje dochody wzrosły, a klienci są zachwyceni!',
+    'book price' => 'Cena książki',
+    'price_section' => 'Zainwestuj w wiedzę, która odmieni Twój biznes! Nasz eBook to kompleksowy przewodnik po 36 narzędziach AI, które pomogą Ci zwiększyć zyski, przyspieszyć pracę i zautomatyzować procesy.',
+    'fixed price' => 'Cena stała',
+    '36 professional ai tools' => '36 profesjonalnych narzędzi AI',
+    'ready-made prompts for ai' => 'gotowe prompty do AI',
+    'implementing ai into your business' => 'wdrażanie AI do swojego biznesu',
+    'about 90 pages of excellent knowledge' => 'około 90 stron znakomitej wiedzy',
+    'what do i find in the ebook about ai tools ?' => 'Co znajdę w eBooku o narzędziach AI ?',
+    'faq_one' => 'W eBooku znajdziesz szczegółowe opisy 36 narzędzi AI, które pomogą Ci zautomatyzować pracę, zwiększyć produktywność i zwiększyć zyski. Otrzymasz także gotowe prompty oraz praktyczne wskazówki dotyczące wdrażania AI w różnych branżach.',
+    'is this ebook for me if i am not familiar with ai ?' => 'Czy ten eBook jest dla mnie, jeśli nie znam się na AI ?',
+    'faq_two' => 'Tak! eBook został napisany w prosty i przystępny sposób, dzięki czemu nawet osoby bez doświadczenia w AI z łatwością wdrożą te rozwiązania w swoim biznesie.',
+    'in what industries can i use these tools ?' => 'W jakich branżach mogę wykorzystać te narzędzia ?',
+    'in the eBook, can i find translational prompts for ai tools ?' => 'Czy w eBooku znajdę przekładowe prompty do narzędzi AI ?',
+    'do you want to buy an ebook ?' => 'Chcesz kupić ebook?',
+    'press the Buy eBook button.' => 'Naciśnij przycisk Kup eBook.',
+    'buy now' => 'Kup teraz',
+    'answer_three' => 'Narzędzia AI opisane w eBooku sprawdzą się w wielu branżach, m.in. marketingu, e-commerce, copywritingu, social media, obsłudze klienta, analizie danych i wielu innych.',
+    'answer_four' => 'Tak! Każde narzędzie jest opisane wraz z przykładowym zastosowaniem promptu, dzięki czemu od razu zobaczysz, jak możesz je wykorzystać w swoim biznesie.'
+];
